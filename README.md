@@ -51,64 +51,6 @@ Currently, I work as a Data Engineer – ML Analytics Intern at Panasonic North 
 
 ---
 
-## 🌟 Featured Projects
-
-### 🤖 AgenticRAG  
-Agentic RAG system using OpenAI function calling, local vector search, and multi-tool retrieval workflows for grounded question answering.
-
-### 🎫 TicketSense-AI  
-LangChain + ChromaDB ticket classification system comparing OpenAI embeddings and Hugging Face EmbeddingGemma-300M with zero-shot, KNN, and few-shot strategies.
-
-### 📈 KaikoData-Agent  
-Agentic market data downloader that converts natural-language trading data requests into Kaiko API CSV/JSON downloads.
-
-### 🔌 MarketMCP-Agent  
-MCP-powered financial data assistant built with FastMCP and Kaiko Reference Data APIs.
-
-### 📄 StructuraAI  
-Document intelligence pipeline that converts financial PDF documentation into structured machine-readable schemas.
-
-### 🌐 ProtocolMind-RAG  
-RAG knowledge-base builder that downloads networking RFCs, chunks documents, generates embeddings, and stores retrieval-ready vectors.
-
-### 🧾 LocalDocForge  
-Local LLM document extraction pipeline using an OpenAI-compatible inference server to convert financial PDF tables into structured CSV outputs.
-
-### 🧭 DocRouteAI  
-LLM-powered file routing pipeline that classifies documents and routes them to the correct extraction, summarization, or execution workflow.
-
-### 🏀 FindMySquad  
-Full-stack web platform for hosting games, finding gym buddies, and organizing esports tournaments with maps, chat, reminders, ratings, karma, and achievements.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages  
-Python • SQL • R • Java • JavaScript • C++
-
-### Data Engineering  
-PySpark • Databricks • Apache Spark • Kafka • Airflow • Hadoop • ETL/ELT • Data Validation • Data Modeling • Data Quality Monitoring
-
-### Data Science & Machine Learning  
-Scikit-learn • XGBoost • LightGBM • Regression Models • Classification • Clustering • Time-Series Forecasting • Feature Engineering • Model Evaluation • Hyperparameter Tuning • A/B Testing • Statistical Analysis
-
-### Deep Learning  
-TensorFlow • PyTorch • Keras • Neural Networks • NLP • Embeddings • Time-Series Sensor Modeling
-
-### GenAI / LLM Systems  
-OpenAI • LangChain • ChromaDB • Hugging Face • RAG • Agentic AI • MCP • Vector Search • Prompt Engineering • Function Calling • Guardrails
-
-### Cloud & Databases  
-BigQuery • MongoDB • PostgreSQL • AWS S3 • GCP • Microsoft Fabric
-
-### Analytics & Visualization  
-Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visualization
-
----
-
----
-
 ## 🛠️ Technologies & Expertise
 
 #### 💻 Programming & Querying
@@ -120,7 +62,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![JavaScript](https://img.shields.io/badge/JavaScript-Full%20Stack-yellow)
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-blue)
 
----
 
 #### 🏗️ Data Engineering
 
@@ -133,7 +74,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![ETL](https://img.shields.io/badge/ETL-Production%20Pipelines-green)
 ![Data Quality](https://img.shields.io/badge/Data%20Quality-Validation-green)
 
----
 
 #### 🤖 AI / LLM Engineering
 
@@ -148,7 +88,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Embeddings-yellow)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-LLM%20Systems-green)
 
----
 
 #### 🧠 Machine Learning & Data Science
 
@@ -163,7 +102,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-Experimentation-orange)
 ![Statistics](https://img.shields.io/badge/Statistics-Analytics-blue)
 
----
 
 #### 🔬 Deep Learning & NLP
 
@@ -174,7 +112,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![Embeddings](https://img.shields.io/badge/Embeddings-Semantic%20Search-green)
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-Vector%20Embeddings-yellow)
 
----
 
 #### ☁️ Cloud, Databases & Storage
 
@@ -186,7 +123,6 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-blue)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-Object%20Storage-yellow)
 
----
 
 #### 📊 Analytics & Visualization
 
@@ -194,6 +130,62 @@ Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visual
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue)
 ![KPI Reporting](https://img.shields.io/badge/KPI%20Reporting-Business%20Insights-green)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Analytics-orange)
+
+---
+
+## 🌟 Featured Projects
+
+### 🤖 AgenticRAG  
+- Agentic RAG system using OpenAI function calling, local vector search, and multi-tool retrieval workflows for grounded question answering.
+
+### 🎫 TicketSense-AI  
+- LangChain + ChromaDB ticket classification system comparing OpenAI embeddings and Hugging Face EmbeddingGemma-300M with zero-shot, KNN, and few-shot strategies.
+
+### 📈 KaikoData-Agent  
+- Agentic market data downloader that converts natural-language trading data requests into Kaiko API CSV/JSON downloads.
+
+### 🔌 MarketMCP-Agent  
+- MCP-powered financial data assistant built with FastMCP and Kaiko Reference Data APIs.
+
+### 📄 StructuraAI  
+- Document intelligence pipeline that converts financial PDF documentation into structured machine-readable schemas.
+
+### 🌐 ProtocolMind-RAG  
+- RAG knowledge-base builder that downloads networking RFCs, chunks documents, generates embeddings, and stores retrieval-ready vectors.
+
+### 🧾 LocalDocForge  
+- Local LLM document extraction pipeline using an OpenAI-compatible inference server to convert financial PDF tables into structured CSV outputs.
+
+### 🧭 DocRouteAI  
+- LLM-powered file routing pipeline that classifies documents and routes them to the correct extraction, summarization, or execution workflow.
+
+### 🏀 FindMySquad  
+- Full-stack web platform for hosting games, finding gym buddies, and organizing esports tournaments with maps, chat, reminders, ratings, karma, and achievements.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+- Python • SQL • R • Java • JavaScript • C++
+
+### Data Engineering  
+- PySpark • Databricks • Apache Spark • Kafka • Airflow • Hadoop • ETL/ELT • Data Validation • Data Modeling • Data Quality Monitoring
+
+### Data Science & Machine Learning  
+- Scikit-learn • XGBoost • LightGBM • Regression Models • Classification • Clustering • Time-Series Forecasting • Feature Engineering • Model Evaluation • Hyperparameter Tuning • A/B Testing • Statistical Analysis
+
+### Deep Learning  
+- TensorFlow • PyTorch • Keras • Neural Networks • NLP • Embeddings • Time-Series Sensor Modeling
+
+### GenAI / LLM Systems  
+- OpenAI • LangChain • ChromaDB • Hugging Face • RAG • Agentic AI • MCP • Vector Search • Prompt Engineering • Function Calling • Guardrails
+
+### Cloud & Databases  
+- BigQuery • MongoDB • PostgreSQL • AWS S3 • GCP • Microsoft Fabric
+
+### Analytics & Visualization  
+- Power BI • Tableau • KPI Reporting • Dashboard Development • Data Visualization
 
 ---
 
@@ -218,6 +210,6 @@ GPA: 3.9 / 4.0
 
 ## 📫 Let's Connect
 
-I'm always open to discussing data engineering, AI systems, agentic workflows, and interesting technical problems.
+I'm always open to discussing data engineering, ML, AI systems, agentic workflows, and interesting technical problems.
 
 [🌐 Portfolio Website](https://himanshu-paithane.vercel.app) • [💼 LinkedIn](https://www.linkedin.com/in/himanshu-paithane-125aa71b7/) • [📧 Email](mailto:paithanehimanshu@gmail.com)
